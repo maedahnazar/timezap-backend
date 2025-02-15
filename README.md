@@ -24,7 +24,7 @@
 ## Contributing
 1. Clone the repository
 ```bash
-  git clone https://github.com/your-username/zapTime-backend.git
+  git clone https://github.com/maedahnazar/zaptime-backend.git
   cd zapTime-backend
 ```
 
