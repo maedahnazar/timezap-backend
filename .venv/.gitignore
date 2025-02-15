@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Ignore environment variables
+.env
+
+# Ignore Virtual Environment
+venv/
+*.venv/
